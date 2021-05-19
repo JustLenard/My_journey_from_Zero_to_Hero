@@ -6,6 +6,7 @@ from selenium.webdriver.support import expected_conditions as EC
 import time
 from selenium.webdriver.common.by import By
 
+
 email = ''
 my_password = ''
 follow_page = "https://www.royalroad.com/my/follows"
